@@ -1,5 +1,4 @@
-# Create an  android  application  which  automatically  notify  the  user  when
-Aeroplane mode is turned on or off using broadcast receiver.
+# Create an  android  application  which  automatically  notify  the  user  when Aeroplane mode is turned on or off using broadcast receiver.
 
 
 manifest
